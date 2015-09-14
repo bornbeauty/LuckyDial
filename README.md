@@ -1,11 +1,11 @@
 # LuckyDial抽奖转盘
----
+
 [项目地址](https://github.com/Jimbo-zjb/LuckyDial)
 
 ###简介
 利用SurfaceView()来实现了转盘抽奖的功能
-- 可以指定抽奖结果
-- 可以添加回调方法在转动结束后来处理后续逻辑
+可以指定抽奖结果
+可以添加回调方法在转动结束后来处理后续逻辑
 ![demo](http://c.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=93bc378e848ba61edbeeca2b710fe637/a8ec8a13632762d0d58a95fba6ec08fa513dc639.jpg)
 ###公共方法介绍
 - void stop()
